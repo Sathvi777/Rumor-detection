@@ -52,11 +52,4 @@ With misinformation spreading rapidly on social platforms, early detection of ru
 - High-centrality nodes are prime candidates for rumor origin detection.
 - Community detection helps isolate clusters for monitoring.
 
----
 
-## 🚀 How to Run
-
-1. Clone the repo
-```bash
-git clone https://github.com/yourusername/rumor-detection-networkx.git
-cd rumor-detection-networkx
